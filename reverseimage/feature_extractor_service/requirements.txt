@@ -1,0 +1,7 @@
+opencv-python-headless
+numpy
+torch
+torchvision
+minio
+elasticsearch
+redis
